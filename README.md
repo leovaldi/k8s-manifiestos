@@ -69,7 +69,6 @@ ls /usr/share/nginx/html
 ---Nos debe figurar algo así---
 
 ```bash
-root@<nombre-del-pod>:/# ls /usr/share/nginx/html
 index.html  java.js  static-website  style.css
 ```
 

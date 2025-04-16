@@ -7,6 +7,7 @@ spec:
     storage: 1Gi
   accessModes:
     - ReadOnlyMany
+  persistentVolumeReclaimPolicy: Retain
+  storageClassName: ""  # ✅ obligatorio para que el PVC lo reconozca
   hostPath:
     path: "/mnt/web"
-  persistentVolumeReclaimPolicy: Retain

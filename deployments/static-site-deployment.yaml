@@ -19,7 +19,7 @@ spec:
         - containerPort: 80
         volumeMounts:
         - name: web-content
-          mountPath: /usr/share/nginx/html
+          mountPath: /usr/share/nginx/html/static-website
       volumes:
       - name: web-content
         persistentVolumeClaim:

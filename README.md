@@ -83,3 +83,13 @@ Esto abrirá tu navegador en la dirección local del servicio.
 ## ✅ Resultado esperado
 
 Al acceder al servicio, se visualizará el contenido de tu sitio web personalizado.
+
+## 🧾 Licencia
+
+Este repositorio puede ser usado con fines educativos y para prácticas en entornos locales.
+
+---
+
+📌 **Importante**: Este repositorio forma parte de un proyecto académico para la materia *Computación en la Nube*, cuyo entorno de ejecución completo está documentado en [este repositorio complementario](https://github.com/Leovaldi/static-website).
+
+```

@@ -18,6 +18,9 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas y her
   
 Si tienes alguna versión diferente, podrían ocurrir errores durante el proceso. Si ves que algo no funciona correctamente, verifica las versiones.
 
+**Importante**:
+Si estás utilizando Minikube con el driver de Docker (--driver=docker), asegúrate de que Docker esté en ejecución en tu sistema. Minikube necesita Docker activo para crear los contenedores de Kubernetes. Si Docker no está corriendo, Minikube no podrá iniciar el clúster.
+
 ## 🚀 Pasos para ejecutar el entorno
 
 ### 1. Clonar los repositorios
